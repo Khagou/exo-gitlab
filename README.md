@@ -1,3 +1,5 @@
+Je suis cette formation car l'informatique me passionne et est important dans la societe actuelle
+
 # exo1-gitlab
 
 
