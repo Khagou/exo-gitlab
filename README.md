@@ -10,6 +10,11 @@ Attentes :
     - Ameliorer mes competences de developpement
     - Savoir administrer des systemes linux
 
+To-Do :
+    - [ ] [ Creer un serveur apache sur mon serveur ]
+    - [ ] [ Creer les dockerfiles necessaire au deploiement de mon portfolio ]
+    - [ ] [Deployer mon port folio sur le serveur dans des containers docker]
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
