@@ -15,6 +15,10 @@ Je suis cette formation car l'informatique me passionne et est important dans la
 - [ ] Creer les dockerfiles necessaire au deploiement de mon portfolio
 - [ ] Deployer mon port folio sur le serveur dans des containers docker
 
+### Commentaires
+
+- Merci de ta colaboration.
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
