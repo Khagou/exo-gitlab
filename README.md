@@ -1,4 +1,4 @@
-Je suis cette formation car l'informatique me passionne et est important dans la societe actuelle
+Je suis cette formation car l'informatique me passionne et est important dans la societe actuelle pour l'utilise de facon securise afin de proteger sa vie privee
 
 # exo1-gitlab
 
