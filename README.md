@@ -1,8 +1,14 @@
-Je suis cette formation car l'informatique me passionne et est important dans la societe actuelle pour l'utilise de facon securise afin de proteger sa vie privee
-
 # exo1-gitlab
 
+Je suis cette formation car l'informatique me passionne et est important dans la societe actuelle pour l'utilise de facon securise afin de proteger sa vie privee
 
+# exo2-markdown
+
+Attentes :
+    - Etre capable de savoir deployer n'importe quel type d'application sur n'importe quel type de serveur
+    - Savoir creer et administrer un reseau
+    - Ameliorer mes competences de developpement
+    - Savoir administrer des systemes linux
 
 ## Getting started
 
