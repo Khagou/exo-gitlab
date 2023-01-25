@@ -11,9 +11,9 @@ Je suis cette formation car l'informatique me passionne et est important dans la
 - Savoir administrer des systemes linux
 
 ### To-Do
-- [ ] [Creer un serveur apache sur mon serveur], non coche
-- [ ] [Creer les dockerfiles necessaire au deploiement de mon portfolio] non coche
-- [ ] [Deployer mon port folio sur le serveur dans des containers docker] non coche
+- [ ] Creer un serveur apache sur mon serveur
+- [ ] Creer les dockerfiles necessaire au deploiement de mon portfolio
+- [ ] Deployer mon port folio sur le serveur dans des containers docker
 
 ## Getting started
 
